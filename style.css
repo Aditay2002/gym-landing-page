@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Anek+Telugu:wght@800&family=Edu+QLD+Beginner&family=Mali:wght@600&family=Varela+Round&display=swap');
+*{
+   
+    font-family: 'Alice', serif;
+    font-family: 'Anek Telugu', sans-serif;
+    font-family: 'Edu QLD Beginner', cursive;
+    font-family: 'Mali', cursive;
+    font-family: 'Varela Round', sans-serif;
+  
+   
+}
+.container{
+    max-width: 80vw;
+}
+ul li{
+   list-style: none;
+}

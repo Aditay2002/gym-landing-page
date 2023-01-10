@@ -1,0 +1,129 @@
+.min-h-screen{
+min-height: 100vh;
+
+}
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.my-2{
+    margin: 26px;
+    padding: 26px;
+    font-size: 2.3rem;
+}
+.flex{
+    display: flex;
+}
+.item-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-between{ 
+justify-content: space-between;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+.navbar{
+    display: flex;
+    height: 38px;
+}
+.font-bold{
+   font-weight: bolder;
+}
+.topleft{
+width: 50%;
+height: 70vh;
+    }
+.topright{
+    width: 50%;
+    height: 70vh;
+}
+.section-1{
+}
+.section-2{
+padding: 78px;
+}
+.section-3 table th{
+    border-bottom: 2px solid black;
+}
+.section-3 table td{
+    border-bottom: 2px solid black;
+}
+.flex-col{
+    flex-direction: column;
+}
+.justify-center{
+    justify-content: center;
+}
+.text-blue{
+    color: rgb(12, 12, 14);
+}
+.btn{
+    border-radius: 10px;
+    cursor: pointer;
+    border: 3px solid rgb(238, 226, 226);
+    padding: 2px 12px;
+    color: aliceblue;
+    background-color: rgb(251, 48, 48);
+}
+.img{
+    width: 40vw;
+    height: 70vh;
+}
+.font-size{
+    font-size: 1.5rem;
+}
+.cycleimg{
+width: 150px;
+padding: 0 127px;
+height: 200px;
+}
+.text-center{
+    text-align: center;
+}
+.section-2 h1{
+    font-size: 2rem;
+}
+.box{
+    margin: 12px 23px;
+}
+.position-fixed{
+    position: fixed;
+}
+.box{
+    padding: 10px 0px;
+    margin: 12px 23px;
+    border: 2px solid black;
+    min-width: 20vw;
+    text-align: center;
+}
+.box ul li{
+    margin: 12px 40px;
+    text-align: center;
+}
+
+/* .justify-content
+{
+    justify-content: space-around;
+} */
+.highlighted{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.box h2{
+    font-size: 2rem;
+}
+.border{
+    border-bottom: 2px solid black;
+}
+.footer{
+    padding: 23px;
+    text-align: center;
+}
